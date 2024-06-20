@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main-yds-2024.aux
+The style file: gbt7714-unsrt.bst
+Database file #1: yds.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 3 entries,
+            3453 wiz_defined-function locations,
+            786 strings with 6083 characters,
+and the built_in function-call counts, 8960 in all, are:
+= -- 684
+> -- 943
+< -- 927
++ -- 283
+- -- 22
+* -- 104
+:= -- 1076
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 6
+chr.to.int$ -- 221
+cite$ -- 3
+duplicate$ -- 60
+empty$ -- 177
+format.name$ -- 44
+if$ -- 2508
+int.to.chr$ -- 1
+int.to.str$ -- 4
+missing$ -- 0
+newline$ -- 24
+num.names$ -- 9
+pop$ -- 441
+preamble$ -- 1
+purify$ -- 3
+quote$ -- 0
+skip$ -- 962
+stack$ -- 0
+substring$ -- 290
+swap$ -- 3
+text.length$ -- 28
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 33
+warning$ -- 0
+while$ -- 37
+width$ -- 0
+write$ -- 54
